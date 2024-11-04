@@ -8,5 +8,9 @@ esoteric and mainstream topics on practical CS (and TCS).
 ## Why?
 Answering this will be a contradiction to "What?".
 
+## Some random things.
+- Implementing theoretical stuff in Go. 
+- Maths and notes in tex.
+
 ## Tracking
 Tracking progress on [github.com/swarit-pandey/doit](doit).  
