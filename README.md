@@ -13,4 +13,4 @@ Answering this will be a contradiction to "What?".
 - Maths and notes in tex.
 
 ## Tracking
-Tracking progress on [github.com/swarit-pandey/doit](doit).  
+Tracking progress on [doit](https://github.com/swarit-pandey/doit).  
